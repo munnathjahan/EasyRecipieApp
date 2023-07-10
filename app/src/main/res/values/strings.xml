@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Bangali Easy Recipe</string>
+
+    <!-- Admob AD ON or OFF -->
+    <string name="show_admob_ad">ON</string>
+
+    <!-- Device ID  setTestDeviceIds (search on logcat for device id) -->
+    <string name="device_id">AD0D5946132A5B6321F1A6BC3F192A8F</string>
+
+    <!-- Admob APP ID HERE -->
+    <string name="admob_APP_ID">ca-app-pub-4716849727926238~2339010928</string>
+    <!-- Admob Ad Unit IDS Here -->
+    <string name="admob_INTERSTITIAL_UNIT_ID">ca-app-pub-4716849727926238/1355982183</string>
+    <string name="admob_BANNER_UNIT_ID">ca-app-pub-4716849727926238/7286965715</string>
+
+</resources>
